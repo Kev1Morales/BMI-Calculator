@@ -9,3 +9,4 @@ y = int(weight_kg) * 0.45359237
 #calculating BMI is weight in kg divided by height squared by 2
 bmi = y / x ** 2
 print(bmi)
+k=input("Type close to exit") 
